@@ -1,0 +1,38 @@
+.form-container{
+    position: absolute;
+    top: 15vh;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000000;
+}
+.a{
+    text-decoration: none;
+}
+.h2{
+    font-weight: lighter;
+    font-family: sans-serif;
+}
+#parent{
+    position: relative;
+}
+.d1{width: 100% ;   
+}
+.d2{
+    width: 75%;
+    position: absolute;
+    top: 80%;
+    margin-left: 200px;
+    background:whitesmoke;
+    padding-left: 10px;
+}
+#s1{
+    min-height:220px;
+    background-color:red;
+    color:white;
+}
+#s1 h1{
+    font-size: 70px;
+    color:white;
+    margin-top:50px;
+}
